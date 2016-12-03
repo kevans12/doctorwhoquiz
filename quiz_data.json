@@ -44,7 +44,9 @@
    "question" : "Where is the Doctor buried?",
    "answers"  : [
      {"id"  : 0, "text" : "Gallifrey"},
-     {"id"  : 1, "text" : "Trenzalore"}
+     {"id"  : 1, "text" : "Trenzalore"},
+     {"id"  : 2, "text" : "Earth"},
+     {"id"  : 3, "text" : "The Library"}
    ],
    "correct"  : 1
  }
