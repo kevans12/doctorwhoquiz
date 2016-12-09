@@ -49,6 +49,56 @@
      {"id"  : 3, "text" : "The Library"}
    ],
    "correct"  : 1
+ },
+ {
+   "question" : "Why does the TARDIS make its trademark wheezing sound?",
+   "answers"  : [
+     {"id"  : 0, "text" : "It is part of space travel"},
+     {"id"  : 1, "text" : "The Doctor leaves the brakes on"},
+     {"id"  : 2, "text" : "It is the sound of dematerializing"},
+     {"id"  : 3, "text" : "To help it disappear"}
+   ],
+   "correct"  : 1
+ },
+ {
+   "question" : "Who is the 'Impossible Girl'?",
+   "answers"  : [
+     {"id"  : 0, "text" : "Amy Pond"},
+     {"id"  : 1, "text" : "River Song"},
+     {"id"  : 2, "text" : "Donna Noble"},
+     {"id"  : 3, "text" : "Clara Oswald"}
+   ],
+   "correct"  : 4
+ },
+ {
+   "question" : "Where is the Pandorica located?",
+   "answers"  : [
+     {"id"  : 0, "text" : "Under Stonehenge"},
+     {"id"  : 1, "text" : "Within the pyramids"},
+     {"id"  : 2, "text" : "At the center of the Library"},
+     {"id"  : 3, "text" : "The University of Gallifrey"}
+   ],
+   "correct"  : 0
+ },
+ {
+   "question" : "What is the elite organization created by the Emperor of the Daleks?",
+   "answers"  : [
+     {"id"  : 0, "text" : "The Silence"},
+     {"id"  : 1, "text" : "The Absence"},
+     {"id"  : 2, "text" : "The Exterminators"},
+     {"id"  : 3, "text" : "The Cult of Skaro"}
+   ],
+   "correct"  : 3
+ }
+ {
+   "question" : "Who was the owner of Cybus Industries and the creator of the Cybermen?",
+   "answers"  : [
+     {"id"  : 0, "text" : "The Master"},
+     {"id"  : 1, "text" : "Davros"},
+     {"id"  : 2, "text" : "John Lumic"},
+     {"id"  : 3, "text" : "Madame Kovarian"}
+   ],
+   "correct"  : 2
  }
 
 ]
